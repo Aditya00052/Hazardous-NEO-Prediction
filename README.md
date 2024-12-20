@@ -22,6 +22,7 @@
 <p>Steps:</p>
 <ol>
   <li><b>Data Collection</b>: Used NASA's Near-Earth Object (NEO) dataset to gather features like velocity, diameter, and distance.</li>
+  <li><b>Exploratory Data Analysis</b>: Created various plots to visualize feature relationships and data distribution within the dataset.</li>
   <li><b>Feature Engineering</b>: Processed and refined the dataset for model input.</li>
   <li><b>Model Selection</b>: Applied various models—Logistic Regression, Random Forest, SVC, SGD, and Neural Networks.</li>
   <li><b>Evaluation</b>: Compared models based on accuracy and ROC-AUC scores.</li>
