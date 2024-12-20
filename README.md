@@ -11,7 +11,7 @@
 
 
 <h3>Overview</h3>
-<p>In this project, the goal was to predict whether a Near-Earth Object (NEO) poses a hazard to Earth by analyzing features such as velocity, diameter, and distance from Earth. The dataset, collected from NASA's satellites, contains over 300,000 records, providing extensive data for analysis. Various machine learning models, including logistic regression, random forest, SVC, SGD, and neural networks, were employed. The random forest classifier outperformed the others, achieving an accuracy of 95% and a ROC-AUC score of 99%.</p>
+<p>In this project, the goal was to predict whether a Near-Earth Object (NEO) poses a hazard to Earth by analyzing features such as velocity, diameter, and distance from Earth. The dataset, collected from NASA's satellites, contains over 300,000 records, providing extensive data for analysis. Various machine learning models, including logistic regression, random forest, SVC, SGD, and neural networks, were employed. The random forest classifier outperformed the others, achieving an accuracy of 95% and a ROC-AUC score of 99%. The project highlights the potential of machine learning in addressing space safety challenges.</p>
 
 
 <h3>Motivation</h3>
